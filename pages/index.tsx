@@ -42,7 +42,7 @@ export default function App() {
         <a href="https://embiem.github.io/react-canvas-draw/">Advanced Demos</a>
         !
       </p>
-      
+
     </div>
   );
 }
